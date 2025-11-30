@@ -65,7 +65,7 @@ QnA-Groq-Chatbot/
 ├── app.py
 ├── requirements.txt
 ├── README.md
-├── .env.example
+├── .env
 └── .gitignore
 ```
 ---
