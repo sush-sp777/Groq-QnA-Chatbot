@@ -74,7 +74,7 @@ QnA-Groq-Chatbot/
 - 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/sush-sp777/Groq-QnA-Chatbot.git
-cd <Groq-QnA-Chatbot>
+cd Groq-QnA-Chatbot
 ```
 - 2️⃣ Create a virtual environment
 ```bash
